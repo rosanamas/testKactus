@@ -20,6 +20,7 @@
     "x": 2.059572767699137,
     "y": 11.65653955185764
   },
+  "isClosed": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -94,6 +95,69 @@
       }
     ]
   },
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.88593155893536124}",
+      "curveMode": 4,
+      "curveTo": "{1, 0.55323193916349811}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{1, 0.55323193916349811}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.31259044862518087, 1}",
+      "curveMode": 3,
+      "curveTo": "{0.75976845151953687, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.54413892908827788, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.098859315589353611}",
+      "curveMode": 3,
+      "curveTo": "{0, 0.85931558935361219}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.49429657794676807}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.61505065123010128, 0}",
+      "curveMode": 3,
+      "curveTo": "{0.35311143270622286, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.59044862518089725, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.81041968162083933, 0.13878326996197718}",
+      "curveMode": 4,
+      "curveTo": "{0.63820549927641101, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.66280752532561504, 0.0038022813688212928}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.55323193916349811}",
+      "curveMode": 4,
+      "curveTo": "{1, 0.28707224334600762}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{1, 0.55323193916349811}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

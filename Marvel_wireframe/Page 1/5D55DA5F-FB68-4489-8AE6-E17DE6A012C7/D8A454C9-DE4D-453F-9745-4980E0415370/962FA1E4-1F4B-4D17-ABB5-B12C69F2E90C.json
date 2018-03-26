@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 1.000000000000002,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Ratings (heart)",
   "nameIsFixed": false,
   "overrideValues": [

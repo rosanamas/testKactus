@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "3226CE52-0D2D-4607-8B49-0251B9B0AEF8",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,9 +24,9 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "version": 97
+    "appVersion": "49.1",
+    "build": 51147,
+    "version": 101
   },
   "pages": [
     "Page 1",

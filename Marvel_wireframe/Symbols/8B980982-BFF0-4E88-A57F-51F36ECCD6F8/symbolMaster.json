@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -54,6 +55,13 @@
   ],
   "name": "Media player/Minimal version",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 360,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 640
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

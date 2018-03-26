@@ -1,6 +1,6 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "6240C70C-18D4-480A-A9AE-9250AEA80B2B",
+  "_class": "group",
+  "do_objectID": "BCBE03BF-39E6-47B2-A9A7-5120E5D4CCA8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,34 +16,29 @@
     "height": 40,
     "width": 315,
     "x": 25,
-    "y": 364
+    "y": 294
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "button 2",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "168CAE1C-6A09-4CCF-B2E7-0BBB27C958C6_stringValue",
-      "value": "Register"
+      "class": "shapeGroup",
+      "id": "D1457D1C-1B32-4A11-9CFC-379FC15C6C29"
+    },
+    {
+      "class": "text",
+      "id": "8CCCECD0-A1F8-45D4-943F-332DBFBDD3BD"
     }
   ],
-  "overrides": {
-    "168CAE1C-6A09-4CCF-B2E7-0BBB27C958C6": "Register"
-  },
+  "name": "button 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -51,12 +46,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "3618ECF2-BDE3-494E-8CCC-E899E7BE7C79",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

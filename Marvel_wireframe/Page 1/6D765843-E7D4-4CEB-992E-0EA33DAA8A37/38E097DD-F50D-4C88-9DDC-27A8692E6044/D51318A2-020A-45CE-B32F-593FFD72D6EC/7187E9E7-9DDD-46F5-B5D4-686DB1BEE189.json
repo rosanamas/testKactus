@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 0.9999999999999982,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Annotation&Markup/Connection Lines/Line + Dot right",
   "nameIsFixed": false,
   "overrideValues": [

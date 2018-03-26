@@ -1,6 +1,6 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "43EFCC9A-650B-45D9-9873-F6FCA010664C",
+  "_class": "group",
+  "do_objectID": "DD29AC33-80FE-42E0-8B0E-FAA158B6D79E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,34 +16,29 @@
     "height": 40,
     "width": 315,
     "x": 25,
-    "y": 294
+    "y": 364
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "button 2",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "168CAE1C-6A09-4CCF-B2E7-0BBB27C958C6_stringValue",
-      "value": "Login"
+      "class": "shapeGroup",
+      "id": "524AC77C-A6C9-4DDD-BE7E-69FAF813E3EF"
+    },
+    {
+      "class": "text",
+      "id": "EF1EB735-311D-452D-8107-15CDE02FE575"
     }
   ],
-  "overrides": {
-    "168CAE1C-6A09-4CCF-B2E7-0BBB27C958C6": "Login"
-  },
+  "name": "button 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -51,12 +46,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "3618ECF2-BDE3-494E-8CCC-E899E7BE7C79",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }
