@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "C3244FAC-7D3C-4451-BA89-4D79BAE49D20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4BF26EC7-BDDD-4195-A4B1-39CDCB370DD9",
+    "height": 59.99999999999999,
+    "width": 60,
+    "x": 704,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D619937F-29E2-4D55-A247-D116C5E499F8"
+    },
+    {
+      "class": "text",
+      "id": "A4E13A22-1375-47C2-AB03-5AE4E61C440D"
+    }
+  ],
+  "name": "Number Badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

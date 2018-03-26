@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "do_objectID": "1C639326-C5B6-4695-9F61-7331567A0342",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CC8766B-2A84-4454-9A1C-A706562E415D",
+    "height": 255,
+    "width": 378,
+    "x": 1442,
+    "y": 134
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E3971399-F8FA-438D-96D7-BD7821B085FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "991C4989-D2C8-4D17-822B-715D448823CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CC135AB-0CC2-4DD4-96CD-89F2193171A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1D13760-BD7F-4482-AB68-251DCF710AD9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF48E413-F598-4E02-8939-C97F417EE649"
+    },
+    {
+      "class": "text",
+      "id": "093A27A1-9DFF-46DB-96F0-C4D09C6A0EEC"
+    },
+    {
+      "class": "text",
+      "id": "110FD8CF-6C87-416B-94ED-5765D1BAA792"
+    },
+    {
+      "class": "text",
+      "id": "F34C2AAB-B71B-4537-B47E-BFE53F09820E"
+    },
+    {
+      "class": "text",
+      "id": "AF1E5CE1-F188-4CEE-B3F1-38C8181FCDA0"
+    },
+    {
+      "class": "text",
+      "id": "90651D18-3A84-4BA3-957F-BC7B469D1297"
+    },
+    {
+      "class": "text",
+      "id": "6B040B44-11E1-4FA4-8240-AF7088976CB6"
+    },
+    {
+      "class": "text",
+      "id": "8C1133F8-DF25-4AD6-9F15-7B20D61CB7D6"
+    },
+    {
+      "class": "text",
+      "id": "CB5B6261-C37D-4FD6-ACCD-1A87401EFEB1"
+    },
+    {
+      "class": "text",
+      "id": "36D4AE7D-98A0-4603-B31E-7D9C88D84057"
+    },
+    {
+      "class": "text",
+      "id": "D68557CB-272B-44A4-9D6E-4D702202CE9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA086DF2-9331-4B03-BD12-D957DB54EBBD"
+    }
+  ],
+  "name": "Dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

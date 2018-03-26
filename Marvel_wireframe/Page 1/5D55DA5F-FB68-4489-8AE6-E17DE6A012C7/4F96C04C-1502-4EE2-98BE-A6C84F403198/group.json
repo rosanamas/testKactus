@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "4F96C04C-1502-4EE2-98BE-A6C84F403198",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A369558-2059-4444-8FA4-C083E8D40100",
+    "height": 835,
+    "width": 1309,
+    "x": 50,
+    "y": 1006
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C771DDED-28AF-450A-B30D-A6521999BDE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D9647E4-1E79-43FF-ACC9-188660C0D449"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35B8D6AD-3159-4257-874D-4C200B5D8623"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBB06706-CEFD-4333-BB67-0C34804B21BD"
+    }
+  ],
+  "name": "Media player",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

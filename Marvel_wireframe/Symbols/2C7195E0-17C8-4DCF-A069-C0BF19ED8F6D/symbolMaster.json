@@ -1,0 +1,103 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "2C7195E0-17C8-4DCF-A069-C0BF19ED8F6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 640,
+    "x": 17730,
+    "y": 5925
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8FB55245-A01B-4AD3-B459-42840A1505ED"
+    },
+    {
+      "class": "group",
+      "id": "04E29B9C-63BA-4B97-B8DB-4CA5AF1A8921"
+    },
+    {
+      "class": "group",
+      "id": "44AD772C-D80C-4DBF-AFC4-F2C102395724"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C1A3EC6-8CE6-4D4A-84D6-EF8DE79BBBC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "564919D8-8384-427F-8BB9-1A06BC671381"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDA00F6C-E35B-4CA0-B935-5CB23E73AF75"
+    },
+    {
+      "class": "text",
+      "id": "2E4B40A7-3188-4B71-B8E4-39949F66F982"
+    },
+    {
+      "class": "text",
+      "id": "F9C412BC-D69A-4DFE-83DB-3065C3ED0EAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE4DABF3-40A5-47F5-A51E-76DF1498D305"
+    }
+  ],
+  "name": "Media player/Player control",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1FAECBED-8397-4DEB-92EF-11D273F4D52E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

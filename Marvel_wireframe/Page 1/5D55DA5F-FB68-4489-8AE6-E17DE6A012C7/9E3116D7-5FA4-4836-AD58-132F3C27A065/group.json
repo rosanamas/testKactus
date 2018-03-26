@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "9E3116D7-5FA4-4836-AD58-132F3C27A065",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68A8BBBF-F5C3-4BC9-9A8D-0246ECF1A5E9",
+    "height": 61,
+    "width": 496,
+    "x": 50,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C113AE23-E0CE-4A57-96A6-B3876A4B5E88"
+    },
+    {
+      "class": "text",
+      "id": "41CC64B1-09FE-46BD-9851-8501A02BDAEF"
+    }
+  ],
+  "name": "teracy logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

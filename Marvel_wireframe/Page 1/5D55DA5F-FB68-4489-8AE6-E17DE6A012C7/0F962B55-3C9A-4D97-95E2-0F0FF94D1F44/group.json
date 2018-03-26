@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "0F962B55-3C9A-4D97-95E2-0F0FF94D1F44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8F7591C-65E4-4817-84FE-CE259D2E73F8",
+    "height": 160,
+    "width": 886,
+    "x": 1438,
+    "y": 1091
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EF06DA87-A52F-4EBC-A932-B6D9DBF34828"
+    },
+    {
+      "class": "group",
+      "id": "C7A3CE73-79F9-4A51-A671-A516EA95F64A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8260D626-EC76-4B96-9CD6-C39489650E68"
+    }
+  ],
+  "name": "Breadcumbs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

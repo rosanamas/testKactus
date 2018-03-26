@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "F290B033-3886-4BF4-8EA4-DDF89A332DA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 333,
+    "x": 3940,
+    "y": 3555
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1D0BFD16-A908-4836-AD29-039EB210EEA4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7020957E-19D9-4E1B-8A1A-550A53C6DEEA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32E42F29-D8C3-422A-83DE-64060717D555"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A9CBA76-EEB5-4108-898E-B89963B224AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C07441D4-B8AC-4D0F-B514-85F2A4F55B6A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D996B145-2D89-4C5C-BDF9-56BE7B582728"
+    },
+    {
+      "class": "text",
+      "id": "771553A1-7658-48AE-84F8-64593CE43D4F"
+    },
+    {
+      "class": "text",
+      "id": "31B88F2F-44A3-40FC-A656-E7FD1C2E2C54"
+    },
+    {
+      "class": "text",
+      "id": "7CA70145-F4FB-4B86-8D81-03B864361ADC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D79341FE-30E5-4677-848C-8A7F72EB7C52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E0A285A9-0654-40FB-8B7A-B1EBACD16B50"
+    }
+  ],
+  "name": "Paginations",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "79F39D41-F8F2-4C88-BE9E-FA85E8408DC6",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

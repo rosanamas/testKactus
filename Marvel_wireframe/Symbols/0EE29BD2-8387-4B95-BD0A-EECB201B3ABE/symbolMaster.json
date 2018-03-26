@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "0EE29BD2-8387-4B95-BD0A-EECB201B3ABE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 438,
+    "x": 17730,
+    "y": 3555
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C4141B89-5DAD-4353-805B-A5126344A5D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B9F656F-B902-4B67-A24E-3D51D22464BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EFAC140B-C64E-44E7-9964-3BA8A21B69AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A0822A8-9183-4E5A-BE00-C37CCD965DA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ADD80205-1262-4390-9D4B-FE95C0C860DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4"
+    },
+    {
+      "class": "text",
+      "id": "FDBFE3B0-557F-4E6F-B38A-A6E4B16ECD22"
+    },
+    {
+      "class": "text",
+      "id": "81724DD8-3270-4D01-9889-B375443D6395"
+    },
+    {
+      "class": "text",
+      "id": "BFBC053B-9EA3-4A24-8FE8-BF3A34D3B0F1"
+    },
+    {
+      "class": "text",
+      "id": "4D9186F9-3EF0-4CBB-9479-6C8D918936E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4"
+    },
+    {
+      "class": "text",
+      "id": "4D9186F9-3EF0-4CBB-9479-6C8D918936E5"
+    }
+  ],
+  "name": "Steps/2",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "48BB97BB-FBB1-482D-ACC8-53F7870F7AA7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
